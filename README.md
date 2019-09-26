@@ -1,5 +1,7 @@
 # Udagram Image Filtering Microservice
 
+#My endpoint URL for a running elastic beanstalk: http://imagefilterstartercode2-dev.us-east-2.elasticbeanstalk.com
+
 ## Tasks
 
 ### Setup Node Environment
